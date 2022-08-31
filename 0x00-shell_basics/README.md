@@ -13,4 +13,5 @@
 13. 12-file_type - Write a script that prints the type of the file
 14.  13-symbolic_link - Create a symbolic link to /bin/ls, named __ls__.
 15. 14-copy_html - Create a script that copies all the HTML files from the current working directory to the parent of the working directory
-16. 100-lets_move - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. 
+16. 100-lets_move - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+17. 101-clean_emacs - script that deletes all files in the current working directory that end with the character ~ 
