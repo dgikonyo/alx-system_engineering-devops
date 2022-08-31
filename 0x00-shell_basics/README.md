@@ -12,4 +12,5 @@
 12. 11. Lists  -  script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 13. 12-file_type - Write a script that prints the type of the file
 14.  13-symbolic_link - Create a symbolic link to /bin/ls, named __ls__.
-15. 14-copy_html - Create a script that copies all the HTML files from the current working directory to the parent of the working directory 
+15. 14-copy_html - Create a script that copies all the HTML files from the current working directory to the parent of the working directory
+16. 100-lets_move - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. 
